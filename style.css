@@ -1,0 +1,138 @@
+.kotak {
+    position: absolute;
+width: 80px;
+height: 80px;
+left: 1360px;
+top: 0px;
+background: #FC2028;
+}
+
+.body{
+    /*font */
+    font-family: 'Poppins';
+                font-size: 22px;
+/*background color*/
+    position: absolute;
+width: 1440px;
+height: 1052px;
+left: 0px;
+top: 0px;
+background: #181F4D;
+}
+
+.Home {
+    position: absolute;
+width: 54px;
+height: 14px;
+left: 923px;
+top: 66px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+/* identical to box height, or 78% */
+
+letter-spacing: 0.003em;
+
+color: #FFFFFF;
+}
+
+.About{
+    position: absolute;
+width: 55px;
+height: 14px;
+left: 1017px;
+top: 66px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+/* identical to box height, or 78% */
+
+letter-spacing: 0.003em;
+
+color: #FFFFFF;
+
+}
+
+.Contact{
+    position: absolute;
+width: 74px;
+height: 14px;
+left: 1112px;
+top: 66px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+/* identical to box height, or 78% */
+
+letter-spacing: 0.003em;
+
+color: #FFFFFF;
+
+}
+
+.Join-Us{
+    position: absolute;
+width: 64px;
+height: 14px;
+left: 1226px;
+top: 66px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 14px;
+/* identical to box height, or 78% */
+
+letter-spacing: 0.003em;
+
+color: #FFFFFF;
+}
+
+.withjohn{
+    position: absolute;
+width: 289px;
+height: 85px;
+left: 710px;
+top: 122px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 84px;
+/* identical to box height, or 338% */
+
+letter-spacing: 0.003em;
+
+color: #68EEB5;
+}
+
+.discover{
+    position: absolute;
+width: 551px;
+height: 338px;
+left: 704px;
+top: 195px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+border-width: 20px;
+font-size: 80px;
+line-height: 84px;
+/* or 106% */
+
+letter-spacing: 0.003em;
+
+color: #FFFFFF;
+}
