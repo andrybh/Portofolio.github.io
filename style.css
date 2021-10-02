@@ -10,7 +10,6 @@ background: #FC2028;
 .body{
     /*font */
     font-family: 'Poppins';
-                font-size: 22px;
 /*background color*/
     position: absolute;
 width: 1440px;
@@ -98,14 +97,13 @@ letter-spacing: 0.003em;
 color: #FFFFFF;
 }
 
-.withjohn{
+.Johny{
     position: absolute;
-width: 289px;
+width:fit-content;
 height: 85px;
 left: 710px;
-top: 122px;
+top: 100px;
 
-font-family: Poppins;
 font-style: normal;
 font-weight: 600;
 font-size: 25px;
@@ -117,22 +115,140 @@ letter-spacing: 0.003em;
 color: #68EEB5;
 }
 
-.discover{
+.Discover{
     position: absolute;
 width: 551px;
 height: 338px;
 left: 704px;
-top: 195px;
-
-font-family: Poppins;
+top: 135px;
+font-family: 'Tahoma';
 font-style: normal;
 font-weight: bold;
 border-width: 20px;
 font-size: 80px;
-line-height: 84px;
+line-height: 80px;
 /* or 106% */
 
 letter-spacing: 0.003em;
 
 color: #FFFFFF;
 }
+
+.paragraph{
+    position: absolute;
+    width: 528px;
+    height: 73px;
+    left: 710px;
+    top: 562px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 24px;
+    letter-spacing: 0,005em;
+    color: #FFFFFF;
+
+}
+
+.start{
+    position: absolute;
+width: 202px;
+height: 58px;
+left: 704px;
+top: 684px;
+
+background-color: #68EEB5;
+border-radius: 5px;
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+border: 2px solid;
+
+letter-spacing: 0,005em;
+color: #181F4D;
+
+
+}
+
+.episodes{
+    position: absolute;
+width: 202px;
+height: 58px;
+left: 932px;
+top: 684px;
+background-color: transparent;
+
+border: 2px solid #68EEB5;
+box-sizing: border-box;
+border-radius: 5px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+letter-spacing: 0,005em;
+color: #68EEB5;
+}
+
+.find{
+    position: absolute;
+    width: 162px;
+    height: 24px;
+    left: 710px;
+    top: 770px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0,005em;
+    color: #FFFFFF;
+}
+
+.fa-youtube{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 704px;
+    top: 850px;
+    font-size: 3em;
+    color: #FFFFFF;
+}
+
+.youtube{
+    position: absolute;
+width: 89px;
+height: 24px;
+left: 770px;
+top: 843px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+letter-spacing: 0.005em;
+color: #FFFFFF;
+
+}
+
+.spotify{
+    position: absolute;
+width: 70px;
+height: 24px;
+left: 923px;
+top: 843px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height, or 120% */
+
+letter-spacing: 0.005em;
+
+color: #FFFFFF;
+}
+
